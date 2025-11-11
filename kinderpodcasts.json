@@ -1,72 +1,12 @@
 [
-  {
-    "title": "CheckPod - Der Podcast mit Checker Tobi",
-    "description": "Der Checker zum Hören! Tobi checkt zusammen mit einem Kind drei Fragen zu einem Wissensthema. Lustige Experimente, kluge Expertinnen und Experten sowie die schlaue Datenbank helfen ihnen dabei. Und am Schluss jeder Folge verrät Checker Tobi ein persönliches Geheimnis. Ob es um Bäume, Märchen oder Schleim geht, im CheckPod macht Wissen Spaß und gute Laune. Alle neuen Folgen gibt es immer eine Woche vorab exklusiv in der ARD-Audiothek!",
-    "url": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml",
-    "age": "6+",
-    "image": "https://img.br.de/dd3e6d5e-579c-4edf-ae53-c6eb09f159d5.jpeg?fm=jpg&w=1800"
-  },
-  {
-    "title": "Die Sendung mit der Maus",
-    "description": "„Die Sendung zum Mitnehmen“. Jedenfalls für Kinder: Sach‐ und Lachgeschichten im Audioformat, erklärt und erzählt auf kindgerechte Weise.",
-    "url": "https://www1.wdr.de/mediathek/video/podcast/channel-sendung-mit-der-maus-100.podcast",
-    "age": "5+",
-    "image": "https://www.wdrmaus.de/m/Datenbild/maus_logo.svg"
-  },
-  {
-    "title": "Lachlabor",
-    "description": "Tina und Mischa beantworten im Lachlabor die verrücktesten Kinderfragen: Kann man in geschmolzener Schokolade schwimmen? Macht ein Känguru‐Baby auch mal in den Beutel der Mama? Oder: Kann man Wolken wegpusten? Die beiden machen lustige Experimente, und bekommen auf ihrer Suche nach Wissen und Antworten Hilfe vom Kinder-Miträtsel-Team und von Expertinnen und Experten.",
-    "url": "https://www.br.de/kinder/hoeren/lachlabor/podcast-rss-itunes-lachlabor-100.html",
-    "age": "6+",
-    "image": "https://www.br.de/kinder/hoeren/lachlabor/_jcr_content/teaserimage.transform/picture/image.img.860.medium.jpg/1603399341723.jpg"
-  },
-  {
-    "title": "YUMMI – Der Kinderpodcast",
-    "description": "Hi! Wir sind Anna und Ben und als YUMMI‐Podcastduo auf der ganzen Welt unterwegs. Dort erleben wir spannende Abenteuer – egal ob auf Fischerbooten im Ozean, auf Orangenplantagen oder in einer verschneiten Winterhütte. Auf unseren Reisen erfahren wir viele interessante Dinge: Wie wird Obst und Gemüse angebaut? Wie werden Fische gefangen? Welche Traditionen haben Kinder in anderen Ländern? Und wie hält man sich fit? Zu unseren Lieblingsthemen gehören Essen, Sport, Tiere und Umwelt.",
-    "url": "https://yummi.podigee.io/feed/mp3",
-    "age": "4+",
-    "image": "https://www.edeka.de/services/edeka-medien/aus-dem-yummi-magazin/yummi-das-kindermagazin.jsp"
-  },
-  {
-    "title": "hr2 Wunderwigwam - Der Kinderpodcast",
-    "description": "Wissens- und Spaß-Podcast für Grundschulkinder: Fox Schlaufuchs und Polly Plapperschlange stürzen sich kopfüber in fremde Welten, jedes Mal an einem anderen Ort. Wissensvermittlung ohne Lernfrust, dafür mit Neugier und Abenteuer.",
-    "url": "https://www.hr2.de/podcasts/kinder/wunderwigwam/feed.xml",
-    "age": "7+",
-    "image": "https://www.hr2.de/podcasts/kinder/wunderwigwam/bild_1400x1400.jpg"
-  },
-  {
-    "title": "Kakadu – Das Kinderhörspiel",
-    "description": "Im Kinderhörspiel von Deutschlandfunk Kultur werden Geschichten lebendig. In unseren Hörspielstudios zaubern wir die unterschiedlichsten Welten herbei: einen Elfenwald, die Tiefsee oder eine Mäusehöhle. Und all das nur durch Musik, Geräusche und die Spielfreude der Schauspieler und der vielen begabten Kinder. Geeignet meist ab ca. 7 Jahren.",
-    "url": "https://www.ardaudiothek.de/sendung/kakadu-das-kinderhoerspiel-deutschlandfunk-kultur/94878292/", 
-    "age": "7+",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Deutschlandfunk_Kultur_Logo.svg/1200px-Deutschlandfunk_Kultur_Logo.svg.png"
-  },
-  {
-    "title": "Geschichten für Kinder (BR Kinder Hörspiele)",
-    "description": "Eine große Auswahl an Geschichten über Abenteuer, Krimi, Tiere, Familie – ideal für Kinder zwischen 5 und 10 Jahren.",
-    "url": "https://feeds.br.de/kinder/hoeren/geschichten-fuer-kinder/feed.xml",
-    "age": "5+",
-    "image": "https://www.br.de/kinder/hoeren/geschichten-fuer-kinder/_jcr_content/teaserimage/image.img.860.medium.jpg"
-  },
-  {
-    "title": "Geschichten für Kinder von 2-7 Jahren – sigikid",
-    "description": "Komm mit in die Welt von Schäfchen Emmala, Hase Huberto Hummeltal und ihren Freunden und begleite sie bei ihren Abenteuern. Viel Spaß beim Zuhören, Staunen, Lernen und Lachen!",
-    "url": "https://anchor.fm/s/298ba17c/podcast/rss",
-    "age": "2+",
-    "image": "https://static.podbean.com/mf/web/0gqn6m/slug‐cover/2_7yo.png"
-  },
-  {
-    "title": "NDR Info – Kindernachrichten",
-    "description": "Was diese Woche in Deutschland und der Welt wichtig war: Erklärung in einfacher Sprache für Kinder – ideal ab ca. 9 Jahren.",
-    "url": "https://www.ardaudiothek.de/sendung/ndrs‐kindernachrichten/100.html",
-    "age": "9+",
-    "image": "https://www.ndr.de/ndrinforadio/img/ndrinforadio_192x192.jpg"
-  },
-  {
-    "title": "Kinderhörspiel – Das Detektivbüro Frederick",
-    "description": "Ein Kinder-Hörspiel-Podcast mit spannenden Geschichten für Kinder.",
-    "url": "https://kinderhoerspiel-das-detektivbuero-frederick.letscast.fm/subscribe",
-    "age": "6+",
-    "image": "https://images.podbean.com/image‐metadata/v1/slug‐cover/412345"
-  }
+  { "url": "https://feeds.br.de/checkpod-der-podcast-mit-checker-tobi/feed.xml", "age": "6+" },
+  { "url": "https://www1.wdr.de/mediathek/video/podcast/channel-sendung-mit-der-maus-100.podcast", "age": "5+" },
+  { "url": "https://www.br.de/kinder/hoeren/lachlabor/podcast-rss-itunes-lachlabor-100.html", "age": "6+" },
+  { "url": "https://yummi.podigee.io/feed/mp3", "age": "4+" },
+  { "url": "https://www.hr2.de/podcasts/kinder/wunderwigwam/feed.xml", "age": "7+" },
+  { "url": "https://feeds.br.de/kinder/hoeren/geschichten-fuer-kinder/feed.xml", "age": "5+" },
+  { "url": "https://www.ardaudiothek.de/sendung/kakadu-das-kinderhoerspiel-deutschlandfunk-kultur/94878292/feed.xml", "age": "7+" },
+  { "url": "https://anchor.fm/s/298ba17c/podcast/rss", "age": "2+" },
+  { "url": "https://www.ndr.de/nachrichten/info/podcast3994.xml", "age": "9+" },
+  { "url": "https://feeds.simplecast.com/zLqL_XO7", "age": "6+" }
 ]
